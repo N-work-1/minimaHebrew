@@ -8,6 +8,10 @@ author:
 description: >
   Whenever
 
+# Added by Me
+baseurl: /minimaHebrew
+url: https://n-work-1.github.io/minimaHebrew/
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
